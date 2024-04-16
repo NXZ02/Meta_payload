@@ -9,9 +9,9 @@ import os
 #data = ["./file1.sh","./file2.sh","./file3.sh"]
 ################ 
 Nerver = ""
-state = [1024] 
-Typed = [1024]
-DEBUG = "./Debug.sh"
+state = [1024]  # array size 1024 
+Typed = [1024]  # array size 1024 
+DEBUG = "./Debug.sh" # run debuger
 ################
 
 def banner_Main(): # funtion main banner 
