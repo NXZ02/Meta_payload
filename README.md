@@ -25,6 +25,9 @@ python3 Payload.py
 14. Redhat        : ?
 Fedora        : ?
 
+![Screenshot_2024-04-17_19-51-46](https://github.com/NXZ02/Meta_payload/assets/109139829/7a492d9e-6f4a-48af-98b6-7fac541c231e)
+
+
 
 
 
