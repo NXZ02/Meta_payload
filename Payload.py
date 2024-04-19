@@ -24,9 +24,9 @@ def banner_Menu(): # funtion menu banner
 def banner_Windows(): # funtion Windows banner 
 	os.system("clear && echo &&  figlet Windows | lolcat && echo")
 def banner_Android(): # funtion android banner 
-	os.system("clear && echo &&  figlet Windows | lolcat && echo")
+	os.system("clear && echo &&  figlet Android | lolcat && echo")
 def banner_Linux(): # funtion linux banner 
-	os.system("clear && echo &&  figlet Windows | lolcat && echo")
+	os.system("clear && echo &&  figlet Linux | lolcat && echo")
 def Error_code(): # Error message
 	os.system("clear")
 	os.system("echo [!] Not ip address | lolcat")
